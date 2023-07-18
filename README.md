@@ -1,1 +1,1 @@
-in this project i am creating a pretty neat of sketchpad and an Etch-A-Sketch prohect
+in this project i am creating a pretty neat of sketchpad and an Etch-A-Sketch project
